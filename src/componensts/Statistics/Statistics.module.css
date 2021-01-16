@@ -1,0 +1,15 @@
+.total {
+  color: rgb(14, 0, 212);
+}
+.positivePercentage {
+  color: rgb(13, 206, 13);
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 15px;
+}

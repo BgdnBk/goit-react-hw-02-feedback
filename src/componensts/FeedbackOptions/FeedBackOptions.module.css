@@ -1,0 +1,14 @@
+.button {
+  min-width: 120px;
+  border: none;
+  color: white;
+  background-color: #2b55c2;
+  border-radius: 5px;
+
+  margin-top: 15px;
+  margin-left: 15px;
+  font-size: 20px;
+  font-weight: 700;
+
+  outline: none;
+}

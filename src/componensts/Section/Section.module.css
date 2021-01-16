@@ -1,0 +1,13 @@
+.section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  font-size: 20px;
+  color: #7d682d;
+}
+
+.title {
+  margin-bottom: 8px;
+}
